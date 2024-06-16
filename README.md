@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.samirt.com.np)
+[![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)](https://www.samirt.com.np)
 
 <h1 align="center">Hi 👋, I'm Samir Tiwari</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
